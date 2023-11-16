@@ -1,0 +1,14 @@
+C:\Users\Ruslan\Desktop\code\maze\maze\bin\Debug\netcoreapp3.1\maze.exe
+C:\Users\Ruslan\Desktop\code\maze\maze\bin\Debug\netcoreapp3.1\maze.deps.json
+C:\Users\Ruslan\Desktop\code\maze\maze\bin\Debug\netcoreapp3.1\maze.runtimeconfig.json
+C:\Users\Ruslan\Desktop\code\maze\maze\bin\Debug\netcoreapp3.1\maze.runtimeconfig.dev.json
+C:\Users\Ruslan\Desktop\code\maze\maze\bin\Debug\netcoreapp3.1\maze.dll
+C:\Users\Ruslan\Desktop\code\maze\maze\bin\Debug\netcoreapp3.1\maze.pdb
+C:\Users\Ruslan\Desktop\code\maze\maze\obj\Debug\netcoreapp3.1\maze.csproj.AssemblyReference.cache
+C:\Users\Ruslan\Desktop\code\maze\maze\obj\Debug\netcoreapp3.1\maze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruslan\Desktop\code\maze\maze\obj\Debug\netcoreapp3.1\maze.AssemblyInfoInputs.cache
+C:\Users\Ruslan\Desktop\code\maze\maze\obj\Debug\netcoreapp3.1\maze.AssemblyInfo.cs
+C:\Users\Ruslan\Desktop\code\maze\maze\obj\Debug\netcoreapp3.1\maze.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\Desktop\code\maze\maze\obj\Debug\netcoreapp3.1\maze.dll
+C:\Users\Ruslan\Desktop\code\maze\maze\obj\Debug\netcoreapp3.1\maze.pdb
+C:\Users\Ruslan\Desktop\code\maze\maze\obj\Debug\netcoreapp3.1\maze.genruntimeconfig.cache
