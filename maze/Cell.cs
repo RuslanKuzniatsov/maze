@@ -11,5 +11,9 @@ namespace maze
         public char Symbol { get; set; }
         public ConsoleColor Color { get; set; }
 
+        public override string ToString()
+        {
+            return $"[{X}], [{Y}], [{Symbol}]";
+        }
     }
 }

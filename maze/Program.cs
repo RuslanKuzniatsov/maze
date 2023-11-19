@@ -7,7 +7,7 @@ namespace maze
         static void Main(string[] args)
         {
             var builder = new MazeBuilder();
-            var maze = builder.Build(3,3);
+            var maze = builder.Build(6,6);
 
 
             var drawer = new Drawer();
